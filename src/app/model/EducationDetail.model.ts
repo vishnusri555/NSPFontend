@@ -13,5 +13,5 @@ export class EducationDetails{
     classStartDate:Date;
     passingYear:Date;
     //rishi fdsafa
-  //vishnu
+  //vishnu sri
 }
