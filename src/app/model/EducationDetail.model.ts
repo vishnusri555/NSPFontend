@@ -14,4 +14,6 @@ export class EducationDetails{
     passingYear:Date;
     //rishi fdsafa
   //vishnu sri
+
+  //gp
 }
