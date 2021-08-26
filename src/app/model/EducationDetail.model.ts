@@ -15,5 +15,5 @@ export class EducationDetails{
     //rishi fdsafa
   //vishnu sri
 
-  //gp
+  //gp praveena
 }
