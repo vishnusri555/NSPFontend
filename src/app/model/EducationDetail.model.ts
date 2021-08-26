@@ -12,8 +12,8 @@ export class EducationDetails{
     universityName:string;
     classStartDate:Date;
     passingYear:Date;
-    //rishi fdsafa
-  //vishnu sri
+    rishi fdsafa
+  vishnu sri
 
-  //gp praveena
+  gp praveena
 }
