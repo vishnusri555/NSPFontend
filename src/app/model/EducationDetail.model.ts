@@ -12,5 +12,6 @@ export class EducationDetails{
     universityName:string;
     classStartDate:Date;
     passingYear:Date;
+  //changes made
 
 }
